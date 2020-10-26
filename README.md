@@ -1,6 +1,6 @@
 # Generics usage
 
-How and why do we need to use Generics in your swift project? You can find answers in a lecture at this [link](https://docs.google.com/presentation/d/1-VW6_-a9RzLLtF6WH7098QJodP-5sfD8V2FP7XwLKMc/edit?usp=sharing). Also, you can find more information about Generics in the book "Swift in Depth" in this repository (p.170).
+How and why do you need to use Generics in your swift project? You can find answers in a lecture at this [link](https://docs.google.com/presentation/d/1-VW6_-a9RzLLtF6WH7098QJodP-5sfD8V2FP7XwLKMc/edit?usp=sharing). Also, you can find more information about Generics in the book "Swift in Depth" in this repository (p.170).
 
 # Examples
 # Generics for Storyboards 
